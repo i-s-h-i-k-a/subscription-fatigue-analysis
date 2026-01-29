@@ -1,5 +1,5 @@
-                                                                                      Subscription Fatigue & Churn Risk Analysis
-                                                                 An end-to-end product and business analytics project using Python, SQL, and Tableau.
+Subscription Fatigue & Churn Risk Analysis
+An end-to-end product and business analytics project using Python, SQL, and Tableau.
 
 ## Project Overview
 Subscription-based products often experience churn due to declining engagement and excessive communication, commonly known as subscription fatigue.
@@ -52,7 +52,12 @@ All datasets are linked using a common user_id.
 - Low-risk users show more stable engagement and revenue behavior.
 - Fatigue indicators appear before churn, enabling early intervention.
 
-## Dashboard
+## Tech Stack
+- Python (Pandas, NumPy)
+- SQL (data aggregation & joins)
+- Tableau (data visualization & dashboards)
+
+## Interactive Dashboard
 Tableau Public Dashboard:  
 https://public.tableau.com/app/profile/ishika.verma5181/viz/shared/KHRDDQ87W
 
@@ -66,6 +71,7 @@ https://public.tableau.com/app/profile/ishika.verma5181/viz/shared/KHRDDQ87W
 This project demonstrates how behavioral data can be translated into actionable business insights. By linking engagement patterns to churn risk and revenue impact, it provides a practical framework for improving retention in subscription-based products.
 
 ## Project Structure
+The repository is organized as follows:
 
 Subscription-Fatigue-Analysis/
 
